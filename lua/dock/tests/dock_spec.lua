@@ -1,0 +1,5 @@
+describe('dock', function ()
+  it ('can be required', function ()
+    require('dock')
+  end)
+end)
